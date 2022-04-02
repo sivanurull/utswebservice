@@ -45,4 +45,4 @@ Route::get('/user/identitas', function(){
             'email' => '197006031@student.unsil.ac.id'
         ]
         ];
-})
+});
